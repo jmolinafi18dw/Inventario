@@ -1,0 +1,65 @@
+		body{
+			background: linear-gradient(100deg, tomato 65%,  gold 12%);
+			font-family: 'McLaren', cursive;
+		}
+		
+		.divlogin{
+			margin-top: 15%;
+			text-align: center;
+		}
+
+		.divlogin form{
+			width: 250px;
+			margin: auto;
+		}
+
+		header{
+			text-align: center;
+			margin-top: 5%;
+			margin-bottom: 5%;
+
+		}
+
+		#contenedor{
+			text-align: center;
+			width: 100%;
+		}
+		
+		#divdatos{
+			float: left;
+			width: 25%;
+			margin-left: 10%;
+			margin-right: 5%;
+			
+		}
+
+		#divdatos form{
+			width: 250px;
+			margin: auto;
+		}
+
+
+		#divlista{
+			float: left;
+			width: 50%;
+		}
+
+		table {
+		    width: 90%;
+		    margin:auto;
+		}
+
+		td{
+		    border-style: double;
+		    
+		}
+
+		th {
+		    border-style: double;
+		}
+
+
+		tr:nth-child(even) {
+		    background-color: #dddddd;
+		}
+
